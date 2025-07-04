@@ -21,6 +21,7 @@ lib/
 ├── register_screen.dart    -> Pantalla de registro de nuevos usuarios
 ├── task_model.dart         -> Modelo de datos para las tareas
 ├── user_model.dart         -> Modelo de datos para los usuarios
+```
 
 ⚙️ Requisitos
 plaintext
