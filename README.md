@@ -1,16 +1,18 @@
-# xdxd
+# 📱 FlutterTaskManagerApp
 
-A new Flutter project.
+**FlutterTaskManagerApp** es una aplicación móvil creada con Flutter que permite a los usuarios gestionar tareas personales. Incluye autenticación con correo, modo claro/oscuro y funcionalidades completas de CRUD para tareas.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Funcionalidades principales
 
-A few resources to get you started if this is your first Flutter project:
+- **Inicio de sesión y registro** con correo electrónico
+- **Gestión de tareas**: agregar, editar y eliminar
+- **Modo oscuro y claro** con botón dinámico (🌙☀️)
+- **Persistencia de sesión** usando `SharedPreferences`
+- **Comunicación con API REST** (MockAPI.io)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧾 Estructura del proyecto
+
